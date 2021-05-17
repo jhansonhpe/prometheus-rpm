@@ -42,7 +42,8 @@ ssl_exporter \
 sachet \
 jiralert \
 ebpf_exporter \
-karma
+karma \
+ctdb_exporter
 
 .PHONY: $(MANUAL) $(AUTO_GENERATED)
 
